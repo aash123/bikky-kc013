@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?><svg xmlns="http://www.w3.org/2000/svg" font-family="Andale Mono,AndaleMono,Consolas,monospace" width="1000px" height="425px" font-size="16px">
+<style>
+    .keyColor {
+    fill: #04060a;
+}
+
+.valueColor {
+    fill: #d81e5b;
+}
+
+.addColor {
+    fill: #3fb950;
+}
+
+.delColor {
+    fill: #f85149;
+}
+
+.main-box {
+    backdrop-filter: blur(16px) saturate(180%);
+    -webkit-backdrop-filter: blur(16px) saturate(180%);
+    fill: #FAF9F6;
+    border-radius: 12px;
+    border: 1px solid rgba(209, 213, 219, 0.3);
+}
+
+.sub-box {
+    fill: #24292f;
+}
+
+text, tspan {
+    white-space: pre;
+}
+
+</style>
+
+<rect width="1000px" height="425px" class="main-box" rx="15"/>
+
+     <text x="15" y="30" class="sub-box">
+        <tspan x="15" y="70">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</tspan>
+        <tspan x="15" y="90">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</tspan>
+        <tspan x="15" y="110">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</tspan>
+        <tspan x="15" y="130">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</tspan>
+        <tspan x="15" y="150">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</tspan>
+        <tspan x="15" y="170">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</tspan>
+        <tspan x="15" y="190">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</tspan>
+        <tspan x="15" y="210">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</tspan>
+        <tspan x="15" y="230">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</tspan>
+        <tspan x="15" y="250">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</tspan>
+        <tspan x="15" y="270">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</tspan>
+        <tspan x="15" y="290">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</tspan>
+        <tspan x="15" y="310">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</tspan>
+        <tspan x="15" y="330">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</tspan>
+        <tspan x="15" y="350">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</tspan>
+        <tspan x="15" y="370">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</tspan>
+    </text>
+
+    <text x="370" y="30" class="sub-box">
+   <tspan x="370" y="70"  class="keyColor">System.OS</tspan>            : <tspan class="valueColor">Bikky Kernal: The AKC </tspan>
+        <tspan x="370" y="90"  class="keyColor">System.Uptime</tspan>        : <tspan class="valueColor">{age}</tspan>
+        <tspan x="370" y="110" class="keyColor">System.Host</tspan>          : <tspan class="valueColor">Mr.Kc</tspan>
+        <tspan x="370" y="130" class="keyColor">System.Kernel</tspan>        : <tspan class="valueColor">Jr.Backend Engineer</tspan>
+        <tspan x="370" y="170" class="keyColor">Languages</tspan>.<tspan class="keyColor">Programming</tspan>: <tspan class="valueColor">Typescript, C++,Javascript, Golang</tspan>
+        <tspan x="370" y="190" class="keyColor">Languages</tspan>.<tspan class="keyColor">Real</tspan>       : <tspan class="valueColor">English, Nepali</tspan>
+        <tspan x="370" y="230" class="keyColor">Info</tspan>.<tspan class="keyColor">Framework</tspan>       : <tspan class="valueColor">NodeJS, NestJs, ExpressJS</tspan>
+        <tspan x="370" y="250" class="keyColor">Info</tspan>.<tspan class="keyColor">Storage</tspan>         : <tspan class="valueColor">MySQL, MongoDB, Redis</tspan>
+        <tspan x="370" y="270" class="keyColor">Info</tspan>.<tspan class="keyColor">Utils</tspan>           : <tspan class="valueColor">Socket, Git, DevOps</tspan>
+        <tspan x="370" y="310" class="keyColor">GitHub Stats</tspan>
+        <tspan x="370" y="330">————————————</tspan>
+        
+                <tspan x="370" y="350" class="keyColor">Repos</tspan>: <tspan class="valueColor">3</tspan>    {<tspan class="keyColor"> Contributed</tspan>: <tspan class="valueColor">53.6K</tspan> }  | <tspan class="keyColor">Commits</tspan>: <tspan class="valueColor">94.1K  </tspan>
+                <tspan x="370" y="375" class="keyColor">Stars</tspan>: <tspan class="valueColor">132</tspan>  | <tspan class="keyColor">Followers</tspan>: <tspan class="valueColor">151  </tspan>
+                <tspan x="370" y="398" class="keyColor">Lines of Code</tspan>: <tspan class="valueColor">291.8K</tspan> (<tspan class="addColor">277.5K++</tspan>, <tspan class="delColor">14.3K--</tspan>)
+            
+    </text>
+</svg>
