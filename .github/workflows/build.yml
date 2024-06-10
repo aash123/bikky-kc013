@@ -40,4 +40,4 @@ jobs:
           git add .
           git diff
           git commit -m "Update README.md"
-          git push https://${{ secrets.GH_ACCESS_TOKEN }}@github.com/owner/repository.git
+          git push https://${{ secrets.ACCESS_TOKEN }}@github.com/owner/repository.git
