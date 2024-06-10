@@ -6,6 +6,7 @@ on:
       - main
   schedule:
     - cron: '15 18 * * *'
+
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -19,14 +20,13 @@ jobs:
         with:
           node-version: '20'
 
-    - name: Set up environment variables
-  run: |
-    git config --global user.email "${{ secrets.EMAIL }}"
-    git config --global user.name "${{ secrets.USERNAME }}"
-
+      - name: Set up environment variables
+        run: |
+          git config --global user.email "${{ secrets.EMAIL }}"
+          git config --global user.name "${{ secrets.USERNAME }}"
 
       - name: Configure Git Config
-        run: |-
+        run: |
           git config --global user.email "${{ secrets.EMAIL }}"
           git config --global user.name "${{ secrets.USERNAME }}"
 
@@ -36,9 +36,8 @@ jobs:
           node server.js
 
       - name: Commit changes and push
-  run: |
-    git add .
-    git diff
-    git commit -m "Update README.md"
-    git push https://${{ secrets.GH_ACCESS_TOKEN }}@github.com/owner/repository.git
-
+        run: |
+          git add .
+          git diff
+          git commit -m "Update README.md"
+          git push https://${{ secrets.GH_ACCESS_TOKEN }}@github.com/owner/repository.git
