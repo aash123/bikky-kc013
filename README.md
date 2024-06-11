@@ -103,7 +103,6 @@
 <div align="center">
 <a href="https://github.com/bikky-kc013">
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=bikky-kc013&theme=bear" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bikky-kc013&theme=2077" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bikky-kc013&theme=2077" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bikky-kc013&theme=synthwave" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bikky-kc013&theme=noctis_minimus" height="180em" />
