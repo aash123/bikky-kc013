@@ -3,7 +3,6 @@
 <h1 align="center">Hi 💻, I'm Bikky Kc</h1>
 <h3 align="center">They say that I am a professional bug maker. Well, I agree with them. </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bikky-kc013&label=Profile%20views&color=0e75b6&style=flat" alt="bikky-kc013" /> </p>
-[![committers.top badge](https://user-badge.committers.top/nepal/bikky-kc013.svg)](https://user-badge.committers.top/nepal/bikky-kc013)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=bikky-kc013&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 - 🔭 I’m currently working on **Nest js**
