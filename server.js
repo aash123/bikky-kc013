@@ -18,3 +18,4 @@ dotenv.config();
         SVGUpdater.updateSVG(userStats, GitHubUsername);
     }
 })();
+//logger
