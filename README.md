@@ -3,7 +3,8 @@
 <h1 align="center">Hi 💻, I'm Bikky Kc</h1>
 <h3 align="center">They say that I am a professional bug maker. Well, I agree with them. </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bikky-kc013&label=Profile%20views&color=0e75b6&style=flat" alt="bikky-kc013" /> </p>
- [![trophy](https://github-profile-trophy.vercel.app/?username=bikky-kc013&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=bikky-kc013&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 - 🔭 I’m currently working on **Nest js**
 - 🌱 I’m currently learning **Microservice**
 - 👨‍💻 All of my projects are available at **Github**
@@ -102,6 +103,7 @@
 <div align="center">
 <a href="https://github.com/bikky-kc013">
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=bikky-kc013&theme=bear" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bikky-kc013&theme=2077" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bikky-kc013&theme=2077" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bikky-kc013&theme=synthwave" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bikky-kc013&theme=noctis_minimus" height="180em" />
@@ -109,6 +111,4 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=bikky-kc013&theme=vue"/>
 
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" /> 
-
-
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
